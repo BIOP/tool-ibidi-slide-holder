@@ -29,10 +29,10 @@ The model was made using [DesignSpark Mechanical](https://www.rs-online.com/desi
 https://photos.app.goo.gl/2HEow7hcQZjTTL218
 
 # Copyrights
-This work is licensed under a Creative Commons Attribution 4.0 International License.
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-https://creativecommons.org/licenses/by/4.0/
-
+# Contributors
 - Model made by Olivier Burri, [BioImaging & Optics Platform (BIOP)](https://www.epfl.ch/research/facilities/ptbiop/)
 - 3D printing done by Roland Dupuis,  [Atelier de Fabrication Additive (AFA)](https://www.epfl.ch/schools/sti/ateliers/afa/)
 - Final tooling and adjustments by Samuel Gex, [SV Workshop](https://www.epfl.ch/schools/sv/sv-in/page-13411-en-html/)
